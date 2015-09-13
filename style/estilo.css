@@ -1,0 +1,56 @@
+body {
+	padding-top: 70px;
+}
+
+#notificacao{
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	max-width: 350px;
+	z-index: 4000 !important;
+}
+#logo a:hover{
+	text-decoration: none;
+}
+
+#menu-principal{
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+#logo{
+	margin-bottom: 35px;
+}
+
+#bt-create{
+	margin-bottom: 15px;
+}
+
+#paginacao ul{
+	margin: 0;
+}
+
+.table-altura{
+	max-height: 235px;
+	overflow: auto;
+}
+
+.footer {
+
+}
+
+.descricao-acervo-estilo{
+	max-height: 100px;
+	overflow: auto;
+	font-size: 14px !important;
+    color: #777;
+	/*border: 1px solid #000;*/
+}
+
+.container .text-muted {
+  margin: 50px 0;
+}
+
+.d-none{
+	display: none;
+}
